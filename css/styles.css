@@ -112,12 +112,16 @@ main ul {
   line-height: 2;
 }
 footer {
-  width: 100%;
+  width: 960px;
   height: 59px;
+  margin: 0 auto;
   padding-top: 41px;
   background-color: #3498db;
   font-size: 18px;
   font-family: 'Lato', sans-serif;
   text-align: center;
   color: #ecf0f1;
+  border-radius: 15px;
+  -moz-border-radius: 15px;
+  -webkit-border-radius: 15px;
 }
